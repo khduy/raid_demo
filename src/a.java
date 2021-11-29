@@ -1,7 +1,7 @@
 package p9;
 
 public class A {
-  public void m7() {
+  public void m9() {
     int value = 5;
     System.out.println("m" + value);
   }
