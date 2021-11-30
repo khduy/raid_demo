@@ -10,7 +10,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: RefDiff
+      - name: raid
         env:
           LANGUAGE: Java
           REV_BEFORE: ${{ github.event.pull_request.base.sha }}
