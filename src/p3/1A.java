@@ -1,4 +1,4 @@
-package p2.p1;
+package p3;
 
 public class 1A {
     public void test2() {
