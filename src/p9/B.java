@@ -1,6 +1,6 @@
 package p9;
 
-public class A {
+public class B {
   public void tesst() {
     
     System.out.println("tesstttt class A"); 
