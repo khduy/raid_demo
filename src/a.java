@@ -5,4 +5,8 @@ class A {
     int value = 5;
     System.out.println("m" + value);
   }
+
+  public void m6() {
+    System.out.println("Do something");
+  }
 }
