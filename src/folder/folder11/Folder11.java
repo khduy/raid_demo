@@ -1,8 +1,8 @@
-package p9.folder.folder6;
+package p9.folder.folder11;
 
-import p9.folder.IFolder6;
+import p9.folder.IFolder11;
 
-class Folder6 implements IFolder6 {
+class Folder11 implements IFolder11 {
     public void m() {
         System.out.println("Method m");
     }
