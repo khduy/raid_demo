@@ -1,6 +1,11 @@
 package p9;
 
 class A extends C implements IA2 {
+
+    public void m8() {
+        System.out.println("Do something");
+    }
+
     public void m9() {
         System.out.println("Method 9");
     }
@@ -36,7 +41,7 @@ class C {
 }
 
 class D {
-    public void m11() {
-        System.out.println("Do something");
+    public void test() {
+        System.out.println("Test method");
     }
 }
