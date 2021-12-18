@@ -1,6 +1,6 @@
 package p9;
 
-public class A {
+public class A implements IA {
     public void m6() {
         System.out.println("Method m6");
     }
