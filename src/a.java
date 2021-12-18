@@ -41,5 +41,7 @@ class C {
 }
 
 class D {
-
+    public void test() {
+        System.out.println("Test method");
+    }
 }
