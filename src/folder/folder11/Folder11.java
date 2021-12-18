@@ -15,3 +15,10 @@ class Folder11 implements IFolder11 {
         System.out.println("m" + value);
     }
 }
+class B extends C {
+
+}
+
+class C {
+    
+}

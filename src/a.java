@@ -29,10 +29,3 @@ interface IA3 {
     void m10();
 }
 
-class B extends C {
-
-}
-
-class C {
-    
-}
