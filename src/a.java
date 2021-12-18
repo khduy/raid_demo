@@ -9,16 +9,20 @@ class ABC {
     public void m7() {
         System.out.println("Do something");
     }
+
+    public void m9() {
+        System.out.println("Method 9");
+    }
+
+    public void m10() {
+        System.out.println("Method 10");
+    }
 }
 
-interface IA extends IA2 {
+interface IA /*extends IA2*/ {
     void m6();
 
     void m7();
-}
-
-interface IA2 extends IA3 {
-    void m9();
 }
 
 interface IA3 {
