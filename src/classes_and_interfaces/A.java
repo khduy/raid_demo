@@ -1,8 +1,10 @@
 package p9.classes_and_interfaces;
 
-import p9.folder2.folder5.folder6.folder8.folder9.IA;
+public class A {
 
-public class A extends B {
+    public void m6() {
+        System.out.println("Method m6");
+    }
 
     public void m7() {
         System.out.println("Method m7");
@@ -16,7 +18,6 @@ public class A extends B {
         System.out.println("Method 10");
     }
 }
-
 
 
 //interface IA2 extends IA3 {
