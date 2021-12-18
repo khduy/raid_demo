@@ -1,11 +1,6 @@
 package p9;
 
-class ABC implements IA2 {
-    public void m6() {
-        int value = 5;
-        System.out.println("m" + value);
-    }
-
+class A extends B implements IA2 {
     public void m7() {
         System.out.println("Do something");
     }
@@ -31,4 +26,11 @@ interface IA2 extends IA3 {
 
 interface IA3 {
     void m10();
+}
+
+class B {
+    public void m6() {
+        int value = 5;
+        System.out.println("m" + value);
+    }
 }
