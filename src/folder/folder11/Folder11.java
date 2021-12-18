@@ -7,7 +7,7 @@ class Folder11 implements IFolder11 {
         System.out.println("Method m");
     }
 
-    public void m1() {
+    public void m1test() {
         System.out.println("Method 1");
     }
     public void m6() {
