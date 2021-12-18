@@ -1,10 +1,7 @@
 package p9.classes_and_interfaces;
 
-public class A implements IA {
-    public void m6() {
-        System.out.println("Method m6");
-    }
-    
+public class A extends B implements IA {
+
     public void m7() {
         System.out.println("Method m7");
     }
