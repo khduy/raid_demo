@@ -1,6 +1,6 @@
 package p9;
 
-class A implements IA {
+class ABC implements IA {
     public void m6() {
         int value = 5;
         System.out.println("m" + value);
