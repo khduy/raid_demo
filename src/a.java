@@ -1,6 +1,6 @@
 package p9;
 
-class ABC implements IA2 {
+class ABC {
     public void m6() {
         int value = 5;
         System.out.println("m" + value);
