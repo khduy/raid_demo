@@ -12,11 +12,14 @@ public class X {
         }
     }
 
-
-    public void doSomething() {
+    public void doStep1(){
         System.out.print("Do step 1.1");
         System.out.print("Do step 1.2");
         System.out.print("Do step 1.3");
+    }
+
+    public void doSomething() {
+        doStep1();
 
         System.out.print("Do step 2");
     }
