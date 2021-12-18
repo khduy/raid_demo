@@ -21,11 +21,11 @@ interface IA extends IA2 {
     void m7();
 }
 
-interface IA2 extends IA3test {
+interface IA2 extends IA3 {
     void m9();
 }
 
-interface IA3test {
+interface IA3 {
     void m11();
 }
 
