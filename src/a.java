@@ -10,7 +10,7 @@ class A1 extends C implements IA2 {
         System.out.println("Method 9");
     }
 
-    public void m10() {
+    public void m19() {
         System.out.println("Method 10");
     }
 }
