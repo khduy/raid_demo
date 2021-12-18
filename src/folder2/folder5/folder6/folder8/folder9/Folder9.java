@@ -4,4 +4,8 @@ class Folder9 {
     public void m9() {
         System.out.println("Method 9");
     }
+
+    public void m9Sec() {
+        System.out.println("Method m9 second");
+    }
 }
