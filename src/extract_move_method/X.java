@@ -12,14 +12,24 @@ public class X {
         }
     }
 
-
-    public void doSomething(){
+    void step1(){
         System.out.println("do A");
         System.out.println("do B");
         System.out.println("do C");
+    }
 
+    void step2(){
         System.out.println("do X");
         System.out.println("do Y");
         System.out.println("do Z");
     }
+
+
+    public void doSomething(){
+        step1();
+        
+        step2();
+    }
+
+
 }
