@@ -4,4 +4,8 @@ public class Tank extends Unit {
     public void getHP() {
         System.out.println("Getting HP");
     }
+
+    public void fillFuel() {
+        System.out.println("Filling fuel");
+    }
 }
