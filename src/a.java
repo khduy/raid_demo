@@ -1,6 +1,6 @@
 package p9;
 
-class A extends C implements IA2 {
+class A2 extends C implements IA2 {
 
     public void m8() {
         System.out.println("Do something");
@@ -10,7 +10,7 @@ class A extends C implements IA2 {
         System.out.println("Method 9");
     }
 
-    public void m10() {
+    public void m19() {
         System.out.println("Method 10");
     }
 }
@@ -26,20 +26,23 @@ interface IA2 extends IA3 {
 }
 
 interface IA3 {
-    void m10();
+    void m11();
 }
+
+
 
 class B extends C {
-
-}
-
-class C {
-    public void m6() {
+    public void m7() {
         int value = 5;
         System.out.println("m" + value);
     }
 }
 
-class D {
+class C {
+  
+}
+
+class D2 {
 
 }
+
