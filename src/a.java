@@ -26,6 +26,14 @@ class A implements IA {
 //    void m10();
 //}
 
+interface IA2 extends IA3 {
+    void m9();
+}
+
+interface IA3 {
+    void m10();
+}
+
 class B extends C {
 
 }
