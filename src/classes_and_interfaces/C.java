@@ -1,4 +1,4 @@
-package p9;
+package p9.classes_and_interfaces;
 
 public class C {
     public void m6() {
