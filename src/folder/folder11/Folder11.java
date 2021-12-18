@@ -2,7 +2,7 @@ package p9.folder.folder11;
 
 import p9.folder.IFolder11;
 
-class Folder12 implements IFolder11 {
+class Folder11 implements IFolder11 {
     public void m() {
         System.out.println("Method m");
     }
