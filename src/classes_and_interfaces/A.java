@@ -1,9 +1,8 @@
 package p9.classes_and_interfaces;
 
-public class A {
-    public void m6() {
-        System.out.println("Method m6");
-    }
+import p9.folder.folder11.B;
+
+public class A extends B {
 
     public void m7() {
         System.out.println("Method m7");
