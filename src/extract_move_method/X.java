@@ -11,4 +11,15 @@ public class X {
             System.out.print("value is not 0");
         }
     }
+
+
+    public void doSomething(){
+        System.out.println("do A");
+        System.out.println("do B");
+        System.out.println("do C");
+
+        System.out.println("do X");
+        System.out.println("do Y");
+        System.out.println("do Z");
+    }
 }
