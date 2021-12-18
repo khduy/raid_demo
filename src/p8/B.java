@@ -1,4 +1,4 @@
-package p9;
+package p8;
 
 public class B {
     public void m7() {
