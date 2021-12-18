@@ -1,7 +1,7 @@
 package p9;
 
 class A extends C implements IA2 {
-    public void m11() {
+    public void m8() {
         System.out.println("Do something");
     }
 
