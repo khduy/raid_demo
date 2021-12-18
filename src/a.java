@@ -32,7 +32,7 @@ interface IA3 {
 
 
 class B extends C {
-    public void m6() {
+    public void m7() {
         int value = 5;
         System.out.println("m" + value);
     }
