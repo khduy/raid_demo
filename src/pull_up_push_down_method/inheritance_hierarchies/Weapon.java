@@ -4,5 +4,7 @@ public abstract class Weapon {
     public int damage;
     public int price;
 
-    
+    public void price() {
+        System.out.println(price);
+    }
 }
