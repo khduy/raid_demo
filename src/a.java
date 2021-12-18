@@ -13,6 +13,10 @@ class A implements IA {
     public void m9() {
         System.out.println("Hello");
     }
+
+    public void m10() {
+        System.out.println("M 10 function");
+    }
 }
 
 interface IA extends IA1 {
@@ -22,4 +26,5 @@ interface IA extends IA1 {
 
 interface IA1 {
     void m9();
+    void m10();
 }
