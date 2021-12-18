@@ -10,4 +10,8 @@ class Folder8 implements IFolder2 {
     public void m8Sec() {
         System.out.println("Method m8 second");
     }
+
+    public void m8Thi( ) {
+        System.out.println("Method m8 third");
+    }
 }
