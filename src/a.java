@@ -26,6 +26,6 @@ interface IA2 extends IA3test {
 }
 
 interface IA3test {
-    void m10();
+    void m11();
 }
 
