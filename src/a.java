@@ -10,7 +10,7 @@ class A implements IA {
         System.out.println("Do something");
     }
 
-    public void m8() {
+    public void m9() {
         System.out.println("Hello");
     }
 }
@@ -18,5 +18,5 @@ class A implements IA {
 interface IA {
     void m6();
     void m7();
-    void m8();
+    void m9();
 }
