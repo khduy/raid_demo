@@ -1,6 +1,6 @@
 package p9;
 
-class A implements IA {
+class A {
     public void m6() {
         System.out.println("Method m6");
     }
@@ -16,12 +16,6 @@ class A implements IA {
     public void m10() {
         System.out.println("Method 10");
     }
-}
-
-interface IA extends IA2 {
-    void m6();
-
-    void m7();
 }
 
 interface IA2 extends IA3 {
