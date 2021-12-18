@@ -1,6 +1,6 @@
 package p9;
 
-class A extends C implements IA2 {
+class A1 extends C implements IA2 {
 
     public void m8() {
         System.out.println("Do something");
