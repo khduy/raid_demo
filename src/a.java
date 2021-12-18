@@ -39,3 +39,7 @@ class C {
         System.out.println("m" + value);
     }
 }
+
+class D {
+
+}
