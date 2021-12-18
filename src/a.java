@@ -1,6 +1,14 @@
 package p9;
 
-class A extends C implements IA2 {
+class A {
+    public void m6() {
+        System.out.println("Method m6");
+    }
+
+    public void m7() {
+        System.out.println("Method m7");
+    }
+
     public void m9() {
         System.out.println("Method 9");
     }
