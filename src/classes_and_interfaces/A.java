@@ -1,8 +1,8 @@
 package p9.classes_and_interfaces;
 
-import p9.folder.folder11.IA;
+import p9.folder2.folder5.folder6.folder8.folder9.IA;
 
-public class A {
+public class A implements IA {
     public void m6() {
         System.out.println("Method m6");
     }
