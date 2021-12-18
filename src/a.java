@@ -15,12 +15,6 @@ class A extends C implements IA2 {
     }
 }
 
-interface IA extends IA2 {
-    void m6();
-
-    void m7();
-}
-
 interface IA2 extends IA3 {
     void m9();
 }
