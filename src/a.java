@@ -15,8 +15,11 @@ class A implements IA {
     }
 }
 
-interface IA {
+interface IA extends IA1 {
     void m6();
     void m7();
+}
+
+interface IA1 {
     void m9();
 }
