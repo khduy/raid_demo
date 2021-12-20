@@ -1,4 +1,4 @@
 package p9.classes_and_interfaces;
 
-public interface IA extends IA2 {
+public interface IA {
 }
