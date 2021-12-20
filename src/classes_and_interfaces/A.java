@@ -15,10 +15,6 @@ public class A {
     }
 }
 
-interface IA1 {
-    void m8();
-}
-
 
 //interface IA2 extends IA3 {
 //    void m9();
