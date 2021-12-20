@@ -4,4 +4,8 @@ class Folder9 extends  Folder9Sec {
     public void m9() {
         System.out.println("Method 9");
     }
+
+    public void m9Thi() {
+        System.out.println("Method 9 third");
+    }
 }
