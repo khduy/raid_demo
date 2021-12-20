@@ -10,7 +10,7 @@ public class A extends B implements IA {
         System.out.println("Method 9");
     }
 
-    public void m10() {
+    public void m11() {
         System.out.println("Method 10");
     }
 }
