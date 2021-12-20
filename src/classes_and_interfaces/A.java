@@ -1,6 +1,6 @@
 package p9.classes_and_interfaces;
 
-public class A extends B {
+public class A {
 
     public void m8() {
         System.out.println("Method m7");
